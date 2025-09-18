@@ -1,0 +1,3 @@
+prefix: true (only bot prefix work)
+prefix: false (no prefix work)
+prefix: 'both' (prefix nonprefix both work)
