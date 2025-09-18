@@ -4,14 +4,14 @@
   "botName": "Nayan Bot",
   "botOwner": "Mohammad Nayan",
   "ownerNumber": "8801615298449",
-  "botNumber": "Your Bot Number",
+  "botNumber": "𝐒𝐰𝐞𝐞𝐭 𝐁𝐨𝐭",
   "autoUpdate": true,
   "timeZone": "Asia/Dhaka",
   "botUid": "",
-  "PREFIX": "/",
+  "PREFIX": ".",
   "admin": [
-    "your main number",
-    "your grp id"
+    "100015509204017",
+    ""
   ],
   "helpPic": "https://i.postimg.cc/pV7xByGv/IMG-20250106-WA0007.png",
   "welPic": "https://i.postimg.cc/3JQF0qWf/received-383729254132460.jpg",
